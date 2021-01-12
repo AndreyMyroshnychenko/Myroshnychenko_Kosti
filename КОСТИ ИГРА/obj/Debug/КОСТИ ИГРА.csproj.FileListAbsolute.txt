@@ -1,0 +1,7 @@
+C:\Users\Amiro\source\repos\КОСТИ ИГРА\КОСТИ ИГРА\bin\Debug\КОСТИ ИГРА.exe.config
+C:\Users\Amiro\source\repos\КОСТИ ИГРА\КОСТИ ИГРА\bin\Debug\КОСТИ ИГРА.exe
+C:\Users\Amiro\source\repos\КОСТИ ИГРА\КОСТИ ИГРА\bin\Debug\КОСТИ ИГРА.pdb
+C:\Users\Amiro\source\repos\КОСТИ ИГРА\КОСТИ ИГРА\obj\Debug\КОСТИ ИГРА.csprojAssemblyReference.cache
+C:\Users\Amiro\source\repos\КОСТИ ИГРА\КОСТИ ИГРА\obj\Debug\КОСТИ ИГРА.csproj.CoreCompileInputs.cache
+C:\Users\Amiro\source\repos\КОСТИ ИГРА\КОСТИ ИГРА\obj\Debug\КОСТИ ИГРА.exe
+C:\Users\Amiro\source\repos\КОСТИ ИГРА\КОСТИ ИГРА\obj\Debug\КОСТИ ИГРА.pdb
